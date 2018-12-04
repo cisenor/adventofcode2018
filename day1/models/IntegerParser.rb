@@ -1,0 +1,3 @@
+class IntegerParser
+
+end
